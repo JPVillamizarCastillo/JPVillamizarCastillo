@@ -7,7 +7,13 @@
 
 
 # 💫 About Me:
-“International Negotiator with emphasis on Business Intelligence. I am fluent in<br>written and spoken languages such as English, French and Spanish. I am a creative person,<br>innovative, flexible, optimistic, achievement oriented, with critical thinking and passionate about<br>passionate about digital transformation as a pillar of entrepreneurship and innovation.<br>innovation. I have experience in companies and in a personal venture, where I have been able <br>to work in project management, negotiation processes project management, negotiation processes, <br>business development and performance measurement. that I would like to continue exploring in my professional <br>growth. I have competencies in the management of agile methodologies, entrepreneurship and creation of new business models, and <br>project preparation and management.<br>
+“International Negotiator with emphasis on Business Intelligence. I am fluent in written and spoken languages such<br>
+as English, French and Spanish. I am a creative person,innovative, flexible, optimistic, achievement oriented, with <br>
+critical thinking and passionate about digital transformation as a pillar of entrepreneurship and innovation.<br>
+I have experience in companies and in a personal venture, where I have been able to work in project management,<br>
+negotiation processes, project management, business development and performance measurement. that I would like to <br>
+continue exploring in my professional growth. I have competencies in the management of agile methodologies, entrepreneurship<br>
+and creation of new business models, and project preparation and management.<br>
 
 
 ## 🌐 Socials:
